@@ -1,0 +1,220 @@
+/* Author:AKSHAYA GOPAL */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Courier New", Courier, monospace;
+}
+body {
+    padding: 2%;
+}
+.main {
+    padding: 3%;
+    border-top: 4px solid red;
+    background-color: aliceblue;
+}
+
+.imagedesc {
+    display: flex;
+    margin-left: 215px;
+}
+.image img {
+    padding: 2%;
+    width: 150px;
+    margin-top: 20%;
+    height: 75%;
+}
+.ak {
+    margin-bottom: 1px;
+}
+.desc {
+    padding: 2%;
+}
+.descP {
+    margin-right: 10%;
+    margin-top: 3%;
+}
+p {
+    color: rgb(132, 166, 196);
+}
+.freelance {
+    color: red;
+    margin-top: 0;
+}
+.dnl {
+    margin-top: 2%;
+    display: flex;
+    gap: 20%;
+}
+.dnlH {
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+.dnlP {
+    margin-top: 0;
+    font-size: x-small;
+} /* finished image and description section */
+.icons {
+    display: flex;
+    margin-left: 200px;
+}
+.ic img {
+    width: 40px;
+    margin-left: 30px;
+} /* finished logo section */
+.act {
+    display: flex;
+    gap: 18px;
+    margin-top: 60px;
+}
+.details {
+    width: 50%;
+    text-align: right;
+}
+.detP {
+    font-size: medium;
+}
+.actP {
+    font-size: small;
+}
+.activity {
+    margin-right: 150px;
+}
+.threerow {
+    display: flex;
+
+    margin-top: 60px;
+
+    gap: 20px;
+}
+.frstrow {
+    display: flex;
+    gap: 40px;
+}
+.frstrow1 {
+    display: flex;
+    gap: 90px;
+    width: 50%;
+}
+.f1 {
+    width: 100%;
+}
+.details2 {
+    width: 30%;
+    text-align: right;
+}
+/* FINISHED SPECIALITIES */
+.borderbottom1 {
+    margin-top: 10px;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+    width: 58%;
+}
+.borderbottom2 {
+    margin-top: 10px;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+    width: 90%;
+}
+.borderbottom3 {
+    margin-top: 10px;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+    width: 75%;
+}
+.borderbottom4 {
+    margin-top: 10px;
+    border-bottom: 2px solid red;
+    padding-bottom: 10px;
+    width: 55%;
+}
+.fullborder {
+    display: flex;
+    flex-direction: column;
+}
+.html5 {
+    display: flex;
+}
+.css3 {
+    display: flex;
+}
+.php {
+    display: flex;
+}
+.js {
+    display: flex;
+}
+.chat {
+    border: 2px solid black;
+    width: 10%;
+    background-color: black;
+    color: white;
+    padding: 2px;
+    height: 12%;
+}
+.eduwhole {
+    display: flex;
+    flex-direction: column;
+}
+.btech {
+    margin-left: 387px;
+    margin-bottom: 50px;
+}
+.eduwhole p {
+    display: flex;
+}
+.eduwhole h4 {
+    display: flex;
+}
+.eduwhole h5 {
+    display: flex;
+}
+.detP1 {
+    margin-top: 50px;
+    margin-left: 278px;
+}
+.envato img {
+    width: 20px;
+}
+.row {
+    display: flex;
+    gap: 100px;
+    padding: 0 100px;
+}
+.activity2 {
+    width: 32%;
+    text-align: right;
+}
+.row3 img {
+    width: 200px;
+    height: 100px;
+    border: 1px solid #000;
+    border-radius: 18px;
+}
+span {
+    color: #f00;
+}
+.none {
+    width: 27.5%;
+}
+.inp {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.button {
+    background-color: rgb(185, 23, 23);
+    color: #fff;
+    border: 1px solid #000;
+    width: 12%;
+    height: 40px;
+    border-radius: 10px;
+}
+.rows {
+    display: flex;
+
+    padding: 0 100px;
+}
+.inp h5 {
+    padding-top: 20px;
+}
